@@ -21,3 +21,4 @@ class User(Base):
     last_name = Column(String)
     hashed_password = Column(String)
     role = Column(String)
+    phone_number = Column(Integer)
