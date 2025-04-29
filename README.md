@@ -11,6 +11,6 @@
 
 ## 📬 İletişim
 📧 **E-posta:** [sabahattinmakine@gmail.com](mailto:sabahattin@example.com)
-🌍 **LinkedIn:** [linkedin.com/in/sabahattin](https://linkedin.com/in/sabahattin)
+🌍 **LinkedIn:** [linkedin.com/in/sabahattin](https://linkedin.com/in/sabahattinmakine)
 
 
